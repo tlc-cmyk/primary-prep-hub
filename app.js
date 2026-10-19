@@ -82,6 +82,14 @@
           url: "https://tlc-cmyk.github.io/flappy-addition/",
           emoji: "🐦",
           accent: "#5B9BD5"
+        },
+        {
+          id: "interview-math-practice",
+          name: "升小數學面試練",
+          description: "神小風格模擬 · 規律／比多少／圖畫加減",
+          url: "https://tlc-cmyk.github.io/interview-math-practice/",
+          emoji: "🔢",
+          accent: "#f59e0b"
         }
       ]);
     });
