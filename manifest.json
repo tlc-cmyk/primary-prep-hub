@@ -1,0 +1,17 @@
+{
+  "name": "小學備試",
+  "short_name": "小學備試",
+  "description": "小學備試練習遊戲總匯",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#2d1b6e",
+  "theme_color": "#2d1b6e",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

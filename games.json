@@ -1,0 +1,18 @@
+[
+  {
+    "id": "iphone-addition-blocks",
+    "name": "加數積木星星",
+    "description": "數字積木加法 · 學習區 · 賽車衝線",
+    "url": "https://tlc-cmyk.github.io/iphone-addition-blocks/",
+    "emoji": "🧱",
+    "accent": "#7c5cff"
+  },
+  {
+    "id": "flappy-addition",
+    "name": "加數小鳥",
+    "description": "飛過正確答案嘅管子空隙",
+    "url": "https://tlc-cmyk.github.io/flappy-addition/",
+    "emoji": "🐦",
+    "accent": "#5B9BD5"
+  }
+]
